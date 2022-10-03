@@ -1,8 +1,8 @@
 hola developers,
 You can contribute any code problem statement along with how to solve it in this repo.
-
-# I AM RECEIVING PULL REQUESTS WITHOUT ANY PROBLEM STATEMENTS. PLEASE ADD PROBLEM STATETMENTS AND NOT JUST SOLUTIONS.
-## A little explanation of the problem will really be appreciated!!
+## Few points to remember:
+1) Please dont forget to add problem statemnets
+2) incase this repo gets problems from different areas, if someone can contribute to maintain the files properly, that will be great..
 
 Thanks
 Happy Coding!
