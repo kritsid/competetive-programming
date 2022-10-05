@@ -1,4 +1,4 @@
-The n-queens puzzle is the problem of placing n queens on an n×n chessboard such that no two queens attack each other.
+// The n-queens puzzle is the problem of placing n queens on an n×n chessboard such that no two queens attack each other.
   
   
 bool corrPos(vector<string>&board,int row,int col,int A)
