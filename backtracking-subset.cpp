@@ -1,4 +1,4 @@
-Given a set of distinct integers, S, return all possible subsets.
+/*Given a set of distinct integers, S, return all possible subsets.
   Example :
 
 If S = [1,2,3], a solution is:
@@ -13,7 +13,7 @@ If S = [1,2,3], a solution is:
   [2, 3],
   [3],
 ]
-
+*/
 
 void solve(vector<bool>&visited, vector<int>arr,vector<int>&v,vector<vector<int>>&ans,int index){
     // if(v.size()==arr.size()){
